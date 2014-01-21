@@ -1,4 +1,8 @@
 random
 ======
 
-practice Repositoruy
+practice Repository
+
+### Members
+
+* Robert Ferney
