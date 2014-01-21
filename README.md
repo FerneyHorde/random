@@ -1,6 +1,11 @@
 random
 ======
 
-practice Repositoruy
 
-*sean is cool and awesome
+practice Repository
+
+### Members
+
+* Robert Ferney
+
+* sean is cool and awesome
