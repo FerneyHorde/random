@@ -1,6 +1,12 @@
 
-## I'm going to write something here. 
+## Rob 
 
-Really I am 
+Also known as:
 
-Sooner or later. 
+* Robert Ferney
+* William Barbary
+* Cap'n Regex 
+* FerneyHorde
+
+Rob is really cool, just really cool!
+
