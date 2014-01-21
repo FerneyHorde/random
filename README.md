@@ -1,6 +1,10 @@
 random
 ======
 
-practice Repositoruy
+practice Repository
 
+### Members
+
+* Robert Ferney
 * keith
+* sean is cool and awesome
